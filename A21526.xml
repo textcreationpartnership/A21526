@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamacion, set furth by the Kynges Maiestie, with the aduise of His Highnes moste honorable counsail, for the reformation of vagabondes, tellers of newes, sowers of sedicious rumours, players, and printers without license &amp; diuers other disordred persons, the xxviii. day of April in the v. yere of His Highnes most prosperous reigne</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1551</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21526</idno>
+            <idno type="STC">STC 7835</idno>
+            <idno type="STC">ESTC S3858</idno>
+            <idno type="EEBO-CITATION">33151091</idno>
+            <idno type="OCLC">ocm 33151091</idno>
+            <idno type="VID">28918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamacion, set furth by the Kynges Maiestie, with the aduise of His Highnes moste honorable counsail, for the reformation of vagabondes, tellers of newes, sowers of sedicious rumours, players, and printers without license &amp; diuers other disordred persons, the xxviii. day of April in the v. yere of His Highnes most prosperous reigne</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Grafton, tpyographus Regius excudebat,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>M. D. LI. [1551]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains woodcut initial.</note>
+                  <note>"Cum priuilegio ad imprimendum solum."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of the press --  England.</term>
+               <term>Offenses against public safety --  England.</term>
+               <term>Great Britain --  History --  Edward VI, 1547-1553.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28918:1"/>
+            <head>A Proclamation, ſet furth by the Kynges Maieſtie, with the aduiſe of his highnes moſte honorable counſail, for the reformation of Vagabondes, tellers of newes ſowers of ſedicious rumours, players, and printers without licence, &amp; diuers other diſordred perſons, <date>the .xxviii. day of April. in the .v. yere of his highnes moſt proſperous reigne.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He kinges moſt excellent maieſtie, our natural ſouereigne lorde, certain<g ref="char:EOLhyphen"/>ly knowing and vnderſtandyng by the good aduiſe and information of the Lordes and others of his priuie counſail, that by the ſetting furth of Goddes holy worde, and th eſtabliſhment of a pure and ſincere religion, conformable to goddes inſtitucion, and the vſage of the holy catholique churche, with th adminiſtration of Iuſtice, and th obſeruation of the La<g ref="char:EOLhyphen"/>wes and ſtatutes of this Realme indifferently amonges al his ſubiectes, he ſhould not onely diſcharge his duety to god, but alſo geue an occaſion of perfect quietnes, humble obedience, charitable concorde, greate felicitie and welth, to al his people, eue<g ref="char:EOLhyphen"/>ry man in his degree: And vpon truſt to ſe th effectes and fruicte of the ſame, hauyng cauſed goddes word to be truely and ſincerely taught and preached, and a godly order for the adminiſtracion of the Sacra<g ref="char:EOLhyphen"/>mentes, and other conuenient and decent orders, to be ſet furth in the churche, Is moſte ſory, and earneſtly from the botom of his harte doth lament, and ſo done all his counſailors, to heare and ſe many of his ſub<g ref="char:EOLhyphen"/>iectes to abuſe dayly by their vicious liuinges and corrupt conuerſations, that moſt precious Iuell the worde of god, and by their licencious behauiors, leude and ſedicious talkes, boldely and preſumpteouſly without feare either of goddes plague, or the ſwearde of their Prince, to breake continually the Lawes and ſtatutes of the realme, to diſpute of his maieſties affayres, to ſow, ſprede abrode, and tel from man to man, falſe lies, tales, rumors, and ſedicious deuiſes, againſt his maieſtie, his counſaillors, Magiſtrates, and Iuſtices: The ſede and rote wherof, as they firſt had beginning and ſprang of the corrupte nature, and yll diſpoſicion of naughty men (whiche therefore without ſhort amendement, muſte and ſhalbe firſte ſcourged with the rod of the prince, &amp; afterward by moſt dredfull condempnation at goddes ha<g ref="char:cmbAbbrStroke">̄</g>d) So the great fault for the continuaunce of the people in euill, hath proceded for want of execution of the good Lawes and Statutes of the realme, and eſpecially the ſtatutes made againſt vagaboundes, vnlaufull games, tellers of newes, Inuentors of tales and rumors, vnlauful aſſembles, riotes, rowtes, huntinges, fiſhinges, ſhoting in handgonnes and Croſſebowes, keping of ale houſes, eating of fleſh on fiſhedaies, re<g ref="char:EOLhyphen"/>grators, forſtallers, breakers of th order of religion and ſundry other like ſtatutes, ſhoulde vndoubtedly not only haue cauſed eche man, to haue liued in quiet, and to haue applied himſelf according to his voca<g ref="char:EOLhyphen"/>tion and degre: but alſo bene cauſers of great welth and felicitie in this realme. No prince in the worlde is more lothe to vſe thextremitie of correction vpon his ſubiectes, then is his maieſtie, nor no counſailors more vnwilling to aduiſe his maieſtie therunto, then his highnes counſailors be, but if the ſubiectes do grow into ſuche a contempt of their prince, of his lawes, and of his miniſters, as they care not to vſe al ſu<g ref="char:EOLhyphen"/>che waies as may be daungerous to their ſouereigne lorde and his eſtate, and deſperately and obſtina<g ref="char:EOLhyphen"/>tely in thende, to caſt them ſelfes into vtter ruine and deſtruction: In this cace hys Maieſty wil ſeuerely, and ſharply loke vpon, correct and poniſhe, theſe offendors, thereby to preſetue his eſtate, and to ſaue the reſt of the membres of his politique body, whiche be his faythful louing and obedient ſubiectes. And yet before his maieſtie procede ſo farre furth, he will vſe a fatherly facion, and gentely admoniſhe and geue warning ere his maieſtie fall to chaſtiſing. Wherfore his highnes on goddes behalfe, mooſt hartely dothe requyre, and neuertheleſſe, by his royal power and princely aucthoritie, ſtraightly chargeth and comman<g ref="char:EOLhyphen"/>deth
+<pb facs="tcp:28918:2"/>all and euery his ſubiectes, of what eſtate, degre, or condicion ſoever he be, to dreade and feare god and his plagues, to conuert and amende their maners, and to liue according to the profeſſion of chriſten men, to loue his Maieſtie, and to feare his Swerde, to obſerue his highnes Lawes<g ref="char:punc">▪</g> Statutes and Pro<g ref="char:EOLhyphen"/>clamations, to liue euery man within the compaſſe of his degre, contented with his vocation, euery man to applie himſelf to liue obediently, quietly, without murmur, grudging, ſowing of ſedicion, ſpreding of tales, and rumors, and without doyng or ſaiyng of any manner of thing (as nere as God wil geue theim grace) that may touche the dignitie of his maieſtie, his counſayl, his magiſtrates or miniſters, or be hurt<g ref="char:EOLhyphen"/>ful to his neighbour, or in any wiſe contrary to his maieſties lawes, ſtatutes, or proclamations, whereby his maieſty ſhal the rather be moued to ſtudy, deuiſe, and put in vre, by the good aduiſe of his counſail, al good wayes and meanes, that may reduce again this realme, vnto that proſpetite, eſtimation, and weal<g ref="char:EOLhyphen"/>the, whiche by ſundry occaſions in proces of time hath and is decaied, a thing that his maieſtie and coun<g ref="char:EOLhyphen"/>ſail do moſt deſire, and dout not, with ſome conuenient time to bring to paſſe, if the nawghtines of ſome euell hartes geue not cauſe of let and empechement to the ſame, wherunto, if any ſhalbe ſo vnhappy as to geue themſelfes, his maieſtie wil with the ſharpe ſwerde of his princely power, ſo ſharpely chaſtiſe and correct them, as may be to the feareful example of all other. And for the better aduoiding of al ſuche in<g ref="char:EOLhyphen"/>conueniences, his maieſtie ſtraightly chargeth and commaundeth, all Iuſtices, Mayors, Shirifes, bay<g ref="char:EOLhyphen"/>lifes, Conſtables, Hedboroughes, Tithing men, and al other Officers and miniſters of what eſtate, de<g ref="char:EOLhyphen"/>gre, or condicion ſoeuer they be, from hencefurth, to loke to their offices, and earneſtly, truly, and vpright<g ref="char:EOLhyphen"/>ly, to execute and ſe executed, al his maieſties Lawes, Statutes and proclamations, whiche be within the compaſſe of their offices, and ſpecially the ſtatutes aboue reherſed, and others of like kinde and qualitie, And for becauſe that within the citie of London, ther is at this preſent a great number of idle perſons &amp; maſterles men, which ſeke rather by Idelnes, &amp; miſchief to liue by other mens labours &amp; induſtries, the<g ref="char:cmbAbbrStroke">̄</g> to trauail by any paynes takyng, to liue like good and obedient membres of the co<g ref="char:cmbAbbrStroke">̄</g>mon welth: His maieſty ſtraightlye chargeth and commaundeth all maner of vagaboundes, and maſterles men, vpon the pai<g ref="char:EOLhyphen"/>nes, not onelie all ready appoyncted by the Lawes and Statutes made for ſuche maner of menne. But alſo vpon ſuche paynes as his maieſtie may and wil ordaine, to be inflicted vpon them, by his pre<g ref="char:EOLhyphen"/>rogatiue royal, to departe al ſuche out of the citie of London, and the Suburbes of the ſame, within .iiii. dayes after the making of this proclamation home to the place either where they wer borne, or wher they haue dwelt laſt thre yeres within the realme, goyng at the leaſt vii<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. miles a day (if they haue ſo farre to go from London) and paſſing not aboue .ii. or iii. or iiii. at the moſte in a company, and not to abide aboue one night in a place, till they come home (e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cept cauſe of ſicknes, the ſame cauſe to be allowed by a Iuſtice of the peace, dwelling next to the place where he or they ſhal fortune to be ſicke) And that al vagabondes, and maſterles men in al other places, within this realme, ſhall alſo within iiii. dayes after the making of this proclamation, in the next market toune, where they ſhal fortune to be, departe likewiſe to the place where they were borne, or laſt dwelled thre yeres within the realme, without lenger tar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eng by the way or going mo in company together, or fewer miles, in a day, then aforeſaid: And vpon like paynes as is afore<g ref="char:EOLhyphen"/>ſayd for them which departe from London.</p>
+            <p>And furthermore, his maieſtie ſtraightly chargeth and co<g ref="char:cmbAbbrStroke">̄</g>maundeth, that no man be ſo hardy either to deuiſe any tale, rumor or talke, touching his maieſte, his Counſail, Magiſtrates, Iuſtices, officers, or mi<g ref="char:EOLhyphen"/>niſters, nor hearing any ſuche tale, rumor, or talke, to tel, reporte, or ſpeake, the ſame agayne to any other perſon or perſons, then to either one of his counſayl or to a Iuſtice of peace, and there withall to ſhew alſo, of whome he had the ſame, to thintent that the ſame perſon, from whome the tale or rumor commeth, may
+<pb facs="tcp:28918:3"/>be puniſhed for the deuiſing of it, if he deuiſed it, or for the telling of it, to any other perſon, then by this proclamation is appointed.</p>
+            <p>And forbicauſe diuers Printers, Bokeſelers, and Plaiers of Enterludes, without conſideration or regarde to the quiet of the realme, do print, ſel, and play, whatſoeuer any light and phantaſtical hed liſteth to inuent and deuiſe, whereby many inconueniences hath, and dayly doth ariſe and follow, amonge the kinges maieſties louyng and faithful ſubiectes: His highnes therfore ſtraightly chargeth and com<g ref="char:EOLhyphen"/>maundeth that from hencefurth, no printer or other perſon do print nor ſel, within this Realme or any o<g ref="char:EOLhyphen"/>ther his maieſtis dominions, any matter in thengliſh to<g ref="char:cmbAbbrStroke">̄</g>g, nor they nor any other perſo<g ref="char:cmbAbbrStroke">̄</g>, do ſel, or otherwiſe diſpoſe abrode any matter, printed in any forreyn dominion in thengliſhe tongue, onles the ſame be firſte allowed by his maieſtie, or his priuie counſayl in writing ſigned with his maieſties moſt gratious hand or the handes of ſixe of his ſayd priuie counſayl, vpon payne of Impriſonment, without bayle or mayne<g ref="char:EOLhyphen"/>price, and further fine at his maieſties pleaſor. Nor that any co<g ref="char:cmbAbbrStroke">̄</g>mon players or other perſons, vpon like paines, do play in thengliſh tong, any maner Enterlude, play, or matter, without they haue ſpecial licence to ſhew for the ſame in writing vnder his maieſties ſigne, or ſigned by .vi. of his highnes priuie counſaill willing &amp; ſtraightly charging &amp; commaunding al Iuſtices, Mayors, Shirifes, Bailifes, Conſtables, &amp; o<g ref="char:EOLhyphen"/>ther officers and miniſters, diligently to enquire for, and ſerche out al maner offendors, within the limites and compaſſe of their commiſſions, and ſpecially al ſuche as ſhal offend againſt any the poinctes or brau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ches expreſſely ſetfurthe in this proclamation, and to puniſhe the ſame without remiſſion: Willing lyke<g ref="char:EOLhyphen"/>wiſe, and alſo ſtrayghtely charging and commaunding, al his good, true, louing and faythefull Subiec<g ref="char:EOLhyphen"/>tes to be aiding, helping, and aſſiſting, to all and euery officer, in thexecution of their charges, as they tender the fauor of his Maieſtie, and the preſeruation of the common wealthe, as they will aunſwer to his Maieſtie, for the contrary at their vttermoſt perill.</p>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>RICHARDVS GRAFTON typographus Regius excudebat.</p>
+            <p>M.D.LI.</p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio ad imprimendum ſolum</p>
+         </div>
+      </back>
+   </text>
+</TEI>
